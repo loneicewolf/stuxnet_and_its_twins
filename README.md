@@ -1,4 +1,6 @@
+### **$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
 # stuxnet and it's family! 
+
  Stuxnet and it's family, twins, relations, etc. Like the Brutalkangaroo project(airgap), the DementiaWheel(wale?), Of course, the Olympic Games(StuxNet).
  And more. Guass, Duqu, Equation, and more samples.
 
