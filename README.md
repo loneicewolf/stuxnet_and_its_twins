@@ -1,6 +1,7 @@
 ### **$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
 
-### **$\textcolor{purple}{\textsf{ ANOTHER NOTE: this will be out of date at times because I need to PULL and re-pack(re archive) stuff from my othe repos. }}$**
+### **$\textcolor{purple}{\textsf{ ANOTHER NOTE: this will be out of date at times}}$**
+### **$\textcolor{purple}{\textsf{ because I need to PULL and re-pack(re archive) stuff from my othe repos. }}$**
 # stuxnet and it's family! 
 
  Stuxnet and it's family, twins, relations, etc. Like the Brutalkangaroo project(airgap), the DementiaWheel(wale?), Of course, the Olympic Games(StuxNet).
