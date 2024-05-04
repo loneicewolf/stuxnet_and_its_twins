@@ -9,5 +9,5 @@
  Why make this repo? I have always typed "I will provide my own samples for flame/duqu etc. etc." but never did that, cuz of some life problems, so but here it is! it will be slow though but My single goal with this repo is to make it..
  **easy. to. read.**
 
-[ALL_PROVIDED ](https://github.com/loneicewolf/stuxnet_and_its_twins/tree/ALL_PROVIDED)
+# ☣️ [ALL_PROVIDED ](https://github.com/loneicewolf/stuxnet_and_its_twins/tree/ALL_PROVIDED) 
 
