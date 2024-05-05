@@ -12,756 +12,756 @@ $ pwd
 
 $ find  . -type d
 
-		./stuxnet_and_its_twins-ALL_PROVIDED
-		./stuxnet_and_its_twins-ALL_PROVIDED/files
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1
+./stuxnet_and_its_twins-ALL_PROVIDED
+./stuxnet_and_its_twins-ALL_PROVIDED/files
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1
 
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_DATA
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_PLC_ROOTKIT
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/TIMETODRIFT
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/TIMETODRIFT/DISK_FW_ALTER
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_DATA
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_PLC_ROOTKIT
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/TIMETODRIFT
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/TIMETODRIFT/DISK_FW_ALTER
 
 
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2
 
 
 $ find  . -type f
 
-		./stuxnet_and_its_twins-ALL_PROVIDED.zip
-		./stuxnet_and_its_twins-ALL_PROVIDED/README.md
+./stuxnet_and_its_twins-ALL_PROVIDED.zip
+./stuxnet_and_its_twins-ALL_PROVIDED/README.md
 
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/HW_e.gif
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/STL-cheat-sheet-by-alphabet (1).pdf
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/SIMATIC_STEP7_Basic_software.jpg
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/S_ST70_XX_00030V.TIF
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/STL-cheat-sheet-by-category.pdf
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/25209116_STEP7Example.zip
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin209.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin250.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin203.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin201.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin208.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin222.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin221.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin242.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin210.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin202.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin241.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin205.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin240.bin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/I_F8153747BAE8B4AE48837EE17172151E
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/N_CA9EABEAB482524E5797C684398335D5
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/mrxnet.sys.593503354.mapped.livebin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/K_055A3421813CAF77E1387FF77B2E2E28
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/kernel32.dll.aslr.00013b86.1616636409.mapped.livebin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/wincc_kernel32.dll.aslr.00013b86.livebin.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/L_4589EF6876E9C8C05DCF4DB00A54887B
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/C_016169EBEBF1CEC2AAD6C7F0D0EE9026
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/mrxnet.sys.livebin.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/memorymod-pe-0x10000000-0x10138000.1155327658.mapped.livebin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/Q_C1CB4117D9998C79AE10C1B890C23A4D
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/mrxcls.sys.1278394761.mapped.livebin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/desktop.ini
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/memorymod-0x006b0000-0x006b1000.450210202.mapped.livebin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/D_7A4E2D2638A454442EFB95F23DF391A1
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/F_335707EABBE7FF256E0650432ACCEC9B
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/E_789F6F8DE3F140CF5D73BEF0B8ABAF78
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/G_F979C6A3E668C5073C4C6506461B034E
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/S_D102BDAD06B27616BABE442E14461059
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/M_1E17D81979271CFA44D471430FE123A5
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/O_CC1DB5360109DE3B857654297D262CA1.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/A_30DF51C9F0D9B010350DC09ABE1E4E97.ex$
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/unknown_hook_in_services_memorymod-0x006b0000-0x006b1000.livebin.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/~WTR4141_J_37FC7C5D89F1E5A96F54318DF1A2B905.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/P_F9BAE53E77B31841235F698955AECE30.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/maindll_dropper_memorymod-pe-0x10000000-0x10138000.livebin.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/R_98FBEBD8883021FBE6464C37ACF17938
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/lsass2_memorymod-pe-0x00090000-0x0010a000.livebin.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/H_A3844A1B6BEA3F6FAF9C276858F40960
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/memorymod-pe-0x00090000-0x0010a000.1990061290.mapped.livebin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/mrxcls.sys.livebin.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/lsass1_lsass.exe.livebin.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/B_74DDC49A7C121A61B8D06C03F92D0C13
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/lsass.exe.1373553098.mapped.livebin
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_DATA/00000000.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_PLC_ROOTKIT/S7_PASSWORD
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_PLC_ROOTKIT/ S7OTBLDX_DLL
-
-
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__e__.lnk
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__g__.lnk
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/~DE1923.tmp
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/msupdate.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__i__.lnk
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/ECELP4.ACM
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__d__.lnk
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/shelldoc.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__j__.lnk
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/fanny.bmp
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/comhost.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__h__.lnk
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/dll_installer.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/101
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/mscorwin.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/AGENTCPD.DLL
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/102
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__f__.lnk
-
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/TIMETODRIFT/DISK_FW_ALTER/WIN32M.SYS
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/1/TIMETODRIFT/DISK_FW_ALTER/nls_933w.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/HW_e.gif
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/STL-cheat-sheet-by-alphabet (1).pdf
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/SIMATIC_STEP7_Basic_software.jpg
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/S_ST70_XX_00030V.TIF
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/STL-cheat-sheet-by-category.pdf
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/STEP7/25209116_STEP7Example.zip
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin209.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin250.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin203.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin201.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin208.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin222.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin221.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin242.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin210.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin202.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin241.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin205.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_RESOURCES_EXTRACTED/bin240.bin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/I_F8153747BAE8B4AE48837EE17172151E
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/N_CA9EABEAB482524E5797C684398335D5
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/mrxnet.sys.593503354.mapped.livebin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/K_055A3421813CAF77E1387FF77B2E2E28
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/kernel32.dll.aslr.00013b86.1616636409.mapped.livebin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/wincc_kernel32.dll.aslr.00013b86.livebin.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/L_4589EF6876E9C8C05DCF4DB00A54887B
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/C_016169EBEBF1CEC2AAD6C7F0D0EE9026
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/mrxnet.sys.livebin.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/memorymod-pe-0x10000000-0x10138000.1155327658.mapped.livebin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/Q_C1CB4117D9998C79AE10C1B890C23A4D
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/mrxcls.sys.1278394761.mapped.livebin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/desktop.ini
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/memorymod-0x006b0000-0x006b1000.450210202.mapped.livebin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/D_7A4E2D2638A454442EFB95F23DF391A1
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/F_335707EABBE7FF256E0650432ACCEC9B
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/E_789F6F8DE3F140CF5D73BEF0B8ABAF78
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/G_F979C6A3E668C5073C4C6506461B034E
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/S_D102BDAD06B27616BABE442E14461059
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/M_1E17D81979271CFA44D471430FE123A5
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/O_CC1DB5360109DE3B857654297D262CA1.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/A_30DF51C9F0D9B010350DC09ABE1E4E97.ex$
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/unknown_hook_in_services_memorymod-0x006b0000-0x006b1000.livebin.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/~WTR4141_J_37FC7C5D89F1E5A96F54318DF1A2B905.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/P_F9BAE53E77B31841235F698955AECE30.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/maindll_dropper_memorymod-pe-0x10000000-0x10138000.livebin.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/R_98FBEBD8883021FBE6464C37ACF17938
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/lsass2_memorymod-pe-0x00090000-0x0010a000.livebin.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/H_A3844A1B6BEA3F6FAF9C276858F40960
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/memorymod-pe-0x00090000-0x0010a000.1990061290.mapped.livebin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/mrxcls.sys.livebin.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/lsass1_lsass.exe.livebin.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/B_74DDC49A7C121A61B8D06C03F92D0C13
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/BINS/lsass.exe.1373553098.mapped.livebin
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_DATA/00000000.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_PLC_ROOTKIT/S7_PASSWORD
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/OLYMPICGAMES_[stuxnet]/RAW_PLC_ROOTKIT/ S7OTBLDX_DLL
 
 
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__e__.lnk
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__g__.lnk
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/~DE1923.tmp
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/msupdate.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__i__.lnk
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/ECELP4.ACM
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__d__.lnk
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/shelldoc.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__j__.lnk
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/fanny.bmp
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/comhost.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__h__.lnk
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/dll_installer.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/101
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/mscorwin.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/AGENTCPD.DLL
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/102
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/BRUTAL_KANGAROO/DEMENTIAWHEEL_[fanny]/__f__.lnk
+
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/TIMETODRIFT/DISK_FW_ALTER/WIN32M.SYS
+./stuxnet_and_its_twins-ALL_PROVIDED/files/1/TIMETODRIFT/DISK_FW_ALTER/nls_933w.dll
 
 
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Architouch-1.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ecwi.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/yak.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/w9xpopen.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SMBTOUCH.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SendPKTrigger.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/xxxRIDEAREA.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ETBL.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/procinfo.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetOurAddr.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Printjobdelete-1.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Esteemaudittouch-2.1.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Vlad.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/sc.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-9.0-amd64.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Erraticgophertouch-1.0.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eternalblue-2.2.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/AddResource.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/svctouch.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Iistouch-1.2.2.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/rc5.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Smblist-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Emphasismine-3.4.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eternalsynergy-1.0.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/promiscdetect_safe.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Pcdlllauncher-2.3.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-8_d.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/RPCTOUCH.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetCallbackPorts.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Domaintouch-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Emeraldthread-3.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/yak_min_install.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/papercut_2.1.0.5_Win32.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Rpcproxy-1.0.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Educatedscholartouch-1.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/DoubleFeatureReader.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetResourceName.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/GenKey.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/PCConfig.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/promiscdetect.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/danecfg.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ESKE.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetPorts.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ParseCapture.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ETRE.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/greatdoc-dll-config.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Jobdelete-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/MakeDebugScript.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/GkDecoder.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Englishmansdentist-1.2.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eclipsedwing-1.5.2.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/RideArea2.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/scanner.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Educatedscholar-1.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetOurIp.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/EVFR.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eternalromance-1.4.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Handle_3.2_Win32.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/tacothief.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Explodingcantouch-1.2.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Ewokfrenzy-2.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Mofconfig-1.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/vcredist_x86.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/DszLpCore.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ELV.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Esteemaudit-2.1.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/uninst-ESKE-1.6.2.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/vtuner.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/DS_ParseLogs.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/NameProbe.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eternalchampion-2.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetCallback.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Processlist-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Regdelete-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/EXPA.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Printjoblist-1.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Worldclienttouch-1.0.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SendDDTrigger.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-7.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SendPCTrigger.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Smbtouch-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Jobadd-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SlDecoder.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Easypi-3.1.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/makedmgd.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/rar.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-9.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/EAFU_SSL.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/simrpc.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-6.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Joblist-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/renamer.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/DszLp.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/clocksvc.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eclipsedwingtouch-1.0.4.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/BpfCompiler.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Emeraldthreadtouch-1.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Webadmintouch-1.0.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SendCFTrigger.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Smbwrite-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-8.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Rpctouch-2.1.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Erraticgopher-1.0.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Smbdelete-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/PC_LP.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eskimoroll-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Namedpipetouch-2.0.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/vcredist_x64.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/st_lp.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/nc.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/EpWrapper.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/RPC2.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/EAFU.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Regwrite-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ClrSecLog.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/verpatch.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/regprobe.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Easybee-1.0.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Regread-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/MakeDebugScript2.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Regenum-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Darkpulsar-1.1.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eternalromance-1.3.0.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Explodingcan-2.0.2.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Smbread-1.1.1.exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Doublepulsar-1.3.1.exe
 
 
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/tdi6.sys
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Legacy_dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ntevt.sys
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level4_flav_dll_x64
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ModifyGroup_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/DuplicateToken_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PortMap_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/msgkd.ex_
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/pwdump_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ModifyGroup_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/LSADUMP_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_http_flav_dll_x64
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_http_dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ProcessHide_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/pwdump_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/msgku.ex_
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/GetAdmin_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_http_flav_dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_flav_dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/msgki.ex_
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/EventLogEdit_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ModifyPrivilege_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ProcessOptions_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/modifyAudit_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/msslu.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PassFreely_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/RunAsChild_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ntfltmgr.sys
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_http_dll_x64
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/kill_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level4_http_flav_dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level4_http_flav_dll_x64
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/processinfo_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/processinfo_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ModifyPrivilege_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ntevtx64.sys
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PassFreely_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/DuplicateToken_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/mssld.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/EventLogEdit_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/modifyAudit_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ProcessHide_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PortMap_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/GetAdmin_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/nethide_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/DXGHLP16.SYS
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/modifyAuthentication_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level4_flav_dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/LSADUMP_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/RunAsChild_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_flav_dll_x64
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/msgks.ex_
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level4_flav_exe
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_dll_x64
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/nethide_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/DoubleFeatureDll.dll.unfinalized
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/modifyAuthentication_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/mstcp32.sys
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ProcessOptions_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/kill_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Architouch-1.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ecwi.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/yak.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/w9xpopen.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SMBTOUCH.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SendPKTrigger.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/xxxRIDEAREA.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ETBL.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/procinfo.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetOurAddr.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Printjobdelete-1.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Esteemaudittouch-2.1.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Vlad.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/sc.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-9.0-amd64.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Erraticgophertouch-1.0.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eternalblue-2.2.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/AddResource.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/svctouch.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Iistouch-1.2.2.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/rc5.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Smblist-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Emphasismine-3.4.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eternalsynergy-1.0.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/promiscdetect_safe.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Pcdlllauncher-2.3.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-8_d.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/RPCTOUCH.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetCallbackPorts.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Domaintouch-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Emeraldthread-3.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/yak_min_install.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/papercut_2.1.0.5_Win32.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Rpcproxy-1.0.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Educatedscholartouch-1.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/DoubleFeatureReader.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetResourceName.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/GenKey.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/PCConfig.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/promiscdetect.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/danecfg.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ESKE.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetPorts.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ParseCapture.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ETRE.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/greatdoc-dll-config.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Jobdelete-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/MakeDebugScript.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/GkDecoder.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Englishmansdentist-1.2.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eclipsedwing-1.5.2.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/RideArea2.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/scanner.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Educatedscholar-1.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetOurIp.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/EVFR.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eternalromance-1.4.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Handle_3.2_Win32.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/tacothief.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Explodingcantouch-1.2.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Ewokfrenzy-2.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Mofconfig-1.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/vcredist_x86.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/DszLpCore.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ELV.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Esteemaudit-2.1.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/uninst-ESKE-1.6.2.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/vtuner.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/DS_ParseLogs.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/NameProbe.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eternalchampion-2.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SetCallback.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Processlist-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Regdelete-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/EXPA.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Printjoblist-1.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Worldclienttouch-1.0.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SendDDTrigger.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-7.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SendPCTrigger.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Smbtouch-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Jobadd-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SlDecoder.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Easypi-3.1.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/makedmgd.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/rar.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-9.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/EAFU_SSL.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/simrpc.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-6.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Joblist-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/renamer.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/DszLp.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/clocksvc.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eclipsedwingtouch-1.0.4.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/BpfCompiler.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Emeraldthreadtouch-1.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Webadmintouch-1.0.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/SendCFTrigger.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Smbwrite-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/wininst-8.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Rpctouch-2.1.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Erraticgopher-1.0.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Smbdelete-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/PC_LP.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eskimoroll-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Namedpipetouch-2.0.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/vcredist_x64.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/st_lp.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/nc.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/EpWrapper.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/RPC2.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/EAFU.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Regwrite-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/ClrSecLog.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/verpatch.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/regprobe.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Easybee-1.0.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Regread-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/MakeDebugScript2.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Regenum-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Darkpulsar-1.1.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Eternalromance-1.3.0.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Explodingcan-2.0.2.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Smbread-1.1.1.exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/EXE_1/Doublepulsar-1.3.1.exe
 
 
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PC_LP.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SerialRedirect_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/kill_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/language_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteLocalTime_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteExecute_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/arp_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RouteModify_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Run_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Services_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PcStatus_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/InjectDll_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Handles_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Strings_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RunAsChild_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogEdit_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetstatMon_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PeddleCheap_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/copy_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DeviceQuery_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Strings_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dns_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Strings_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/QueryEventLogs_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegKeys_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Users_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/procMon_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetAdmin_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/wellKnownId_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpScan_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Windows_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_ProcessScanner_LpData.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Tree_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ModifyGroup_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegKeys_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dns_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Friezeramp_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RouteModify_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FlavControl_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DuplicateToken_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketRedirect_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PortMap_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msvcm90.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Route_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/CheckKeyboard_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteCommand_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ResourceManager_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msvcp90.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Scheduler_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LotusNotesParser_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/listdrives_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/machineinfo_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemVersion_Lp9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EP_ListeningPost_9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegQuery_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Cd_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Route_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_ElEi_GyCa.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/pwdump_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GangsterThief_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ModifyGroup_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMo_GrSa.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Arp_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Oracle_LpData.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Banner_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LSADUMP_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/listdrives_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/fileperms_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Grep_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dir_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ClearEventLog_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msvcr71.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/KisuComms_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Friezeramp_Data.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Netstatmon2k_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Papercut_Data.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemVersion_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Language_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdUser_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/XalanMessages_1_10.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EP_Implant_9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/put_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/QueryEventLogs_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessMemory_LpData.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ping_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PidGuesser_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdGc_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdGc_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/diskspace_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Banner_Target_Flav.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessCheck_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/QueryEventRecord_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessHide_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Run_Data.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/diskspace_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_ThreadInject_DrNi.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/wpcap.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ActiveDirectory_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteExecute_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetSysPaths_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Time_Data.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Environment_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/audit_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DiBa_Target_2000.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/machineinfo_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Environment_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/sqlite3.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LotusNotesMailUsers_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteExecute_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/icutu32.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/procMon_Lp9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogFilter_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogonAsUser_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/listdrives_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Scheduler_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtNativeApi_Dswi_BH.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SidLookup_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Script_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessSuspend_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/rmdir_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/pwdump_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_ProcessScanner_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FileType_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GroupUsers_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dsz_Error.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMo_GyCa.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Level4_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetAdmin_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PasswordDump_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessOptions_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Shares_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Traceroute_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FileAttribs_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMo_GrSa_Wow64.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemVersion_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtNativeApi_Dswi.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/netmap_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Groups_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FileAttribs_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DSZ_EP_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpMon_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DiskSpace_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Hide_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Cd_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/pwd_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Time_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetBios_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/pwd_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Delete_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/IpConfig_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Copy_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_FileScanner_LpData.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dns_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogEdit_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdMode_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/move_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AppCompat_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ModifyPrivilege_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Get_Data.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/netmap_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/XmlParser_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Redirect_Target_Flav.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/wmi_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dir_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/KisuComms_Target_2000.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DiBa_Target_BH.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/wellKnownId_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LotusNotesMailUsers_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegKeys_Lp9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Kill_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Banner_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DraftyPlan_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msgku.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessOptions_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/modifyAudit_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetSysPaths_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Firewall_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msslu.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PassFreely_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMo_GyCa_Wow64.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/xerces-c_2_7.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Packages_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RunAsChild_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/put_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Put_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FileAttributes_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Route_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/icudt32.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Audit_Target_Vista.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ExitWindows_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ExitWindows_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msvcr90.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Sql_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Portmap_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/diskspace_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/kill_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/vtuner.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMe_GrSa.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/move_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/put_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Performance_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/UtilPaku.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/processinfo_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/packet.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Oracle_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetUse_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msgkd.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GeZu_KernelMemory_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/npptools.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/arp_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_Fail.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_ThreadInject_Fail.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/netmap_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/processinfo_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Cd_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetGetDCName_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Activity_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ModifyPrivilege_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogonAsUser_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GroupUsers_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FileAttribs_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Processes_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketScan_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/rmdir_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Cd_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Get_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Traceroute_Target_Flav.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DllLoad_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtNativeApi_Fail.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Redirect_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NameServerLookup_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/UpTime_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Checksum_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetUse_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dsz_Implant_Pc.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegQuery_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/memory_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Run_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Traceroute_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_ProcessScanner_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMe_GrSa_Wow64.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_FileScanner_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DuplicateToken_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/CheckKeyboard_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtNativeApi_Win32.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtMemory_Fail.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PassFreely_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SerialRedirect_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DuplicateToken_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/CheckMouse_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessMemory_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Get_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/mssld.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegistryHive_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mkdir_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Scheduler_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdUser_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetGetDCName_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/memory_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Grep_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/matchTimes_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogEdit_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessInfo_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogEdit_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtMemory_DrNi.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Performance_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Xml4_0u.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Traceroute_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/fileperms_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogEdit_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Get_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DmGz_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Grep_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/move_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/audit_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/drivers_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegKeys_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EP_ListeningPost.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/devmgr_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Windows_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Ping_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/checkfile_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessModify_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/checkfile_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dir_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/QueryEventRecord_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegistryQuery_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/VideoSummary_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/matchTimes_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Permissions_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/IpConfig_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogEdit_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LotusNotesParser_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpMon_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Oracle_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/modifyAudit_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpApi_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/VideoSummary_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SerialSniffer_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/WebTipper_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Windows_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/icuuc32.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/matchTimes_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/URControl_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketRedirect_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Redirect_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Tree_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Services_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Banner_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/rmdir_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessHide_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemVersion_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetBios_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketRedirect_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DSZ_EP_ListeningPost.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/copy_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Services_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Move_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Drives_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Strings_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Authentication_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PortMap_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/del_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msgki.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/mssld64.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Drivers_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Performance_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Run_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dns_Target_Flav.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Grep_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Xalan-C_1_10.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/machineinfo_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpApi_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetAdmin_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Environment_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Netstatmon2k_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessMemory_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dsz_VirtualCd.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Level4_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/language_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/TrafficCapture_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/nethide_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemVersion_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dir_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Rmdir_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_FileScanner_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/tcptraceroute_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Scheduler_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DiBa_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Users_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/icuin32.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/pwd_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msslu64.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegQuery_Lp9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/wmi_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/processinfo_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogEdit_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteLocalTime_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ResourceManager_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetSysPaths_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msvcp71.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/modifyAuthentication_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EP_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketRedirect_Target_Flav.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/CheckMouse_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EP_Scripting.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Checksum_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PC_EpWrapperLp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Ping_Target_Flav.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Redirect_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Papercut_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/MatchFileTimes_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_ErNi_GrSa.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LSADUMP_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ExitWindows_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/python25.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Time_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/URControl_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/del_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Ldap_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetstatMon_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DraftyPlan_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/mkdir_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetConnections_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Shutdown_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RunAsChild_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemPaths_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/arp_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/sqlite_jni.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Environment_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogFilter_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Audit_Target_PreVista.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GangsterThief_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PC_Exploit.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Papercut_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DG_Control_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Groups_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketScan_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PidGuesser_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessCheck_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DG_Control_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SerialSniffer_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/nethide_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DomainController_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetBios_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Ifconfig_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/mkdir_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegistryKeys_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GangsterThief_LpData.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/devmgr_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Netmap_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/MSVCR71.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ClearEventLog_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Users_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdMode_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_ThreadInject_Std.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/modifyAuthentication_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DiBa_Target_BH_2000.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Checksum_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/python27.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/procMon_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/del_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/drivers_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/CurrentUsers_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogQuery_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpScan_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Memory_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ping_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegQuery_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/WebTipper_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/tcptraceroute_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ResourceManager_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PidGuesser_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/copy_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogonAsUser_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Run_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/mkdir_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Objects_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Database_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Groups_Implant.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Tree_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/checkfile_Implant9x.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessOptions_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/procMon_Lp.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtMemory_Std.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PC_LP_Bootstrap.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogClear_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Get_Target.dll
-		./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/kill_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/tdi6.sys
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Legacy_dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ntevt.sys
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level4_flav_dll_x64
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ModifyGroup_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/DuplicateToken_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PortMap_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/msgkd.ex_
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/pwdump_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ModifyGroup_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/LSADUMP_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_http_flav_dll_x64
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_http_dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ProcessHide_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/pwdump_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/msgku.ex_
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/GetAdmin_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_http_flav_dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_flav_dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/msgki.ex_
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/EventLogEdit_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ModifyPrivilege_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ProcessOptions_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/modifyAudit_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/msslu.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PassFreely_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/RunAsChild_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ntfltmgr.sys
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_http_dll_x64
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/kill_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level4_http_flav_dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level4_http_flav_dll_x64
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/processinfo_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/processinfo_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ModifyPrivilege_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ntevtx64.sys
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PassFreely_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/DuplicateToken_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/mssld.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/EventLogEdit_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/modifyAudit_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ProcessHide_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PortMap_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/GetAdmin_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/nethide_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/DXGHLP16.SYS
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/modifyAuthentication_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level4_flav_dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/LSADUMP_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/RunAsChild_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_flav_dll_x64
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/msgks.ex_
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level4_flav_exe
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/PC_Level3_dll_x64
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/nethide_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/DoubleFeatureDll.dll.unfinalized
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/modifyAuthentication_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/mstcp32.sys
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/ProcessOptions_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_1/kill_Implant.dll
+
+
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PC_LP.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SerialRedirect_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/kill_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/language_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteLocalTime_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteExecute_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/arp_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RouteModify_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Run_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Services_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PcStatus_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/InjectDll_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Handles_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Strings_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RunAsChild_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogEdit_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetstatMon_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PeddleCheap_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/copy_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DeviceQuery_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Strings_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dns_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Strings_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/QueryEventLogs_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegKeys_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Users_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/procMon_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetAdmin_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/wellKnownId_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpScan_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Windows_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_ProcessScanner_LpData.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Tree_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ModifyGroup_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegKeys_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dns_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Friezeramp_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RouteModify_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FlavControl_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DuplicateToken_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketRedirect_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PortMap_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msvcm90.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Route_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/CheckKeyboard_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteCommand_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ResourceManager_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msvcp90.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Scheduler_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LotusNotesParser_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/listdrives_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/machineinfo_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemVersion_Lp9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EP_ListeningPost_9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegQuery_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Cd_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Route_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_ElEi_GyCa.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/pwdump_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GangsterThief_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ModifyGroup_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMo_GrSa.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Arp_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Oracle_LpData.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Banner_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LSADUMP_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/listdrives_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/fileperms_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Grep_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dir_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ClearEventLog_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msvcr71.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/KisuComms_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Friezeramp_Data.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Netstatmon2k_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Papercut_Data.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemVersion_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Language_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdUser_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/XalanMessages_1_10.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EP_Implant_9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/put_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/QueryEventLogs_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessMemory_LpData.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ping_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PidGuesser_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdGc_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdGc_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/diskspace_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Banner_Target_Flav.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessCheck_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/QueryEventRecord_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessHide_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Run_Data.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/diskspace_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_ThreadInject_DrNi.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/wpcap.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ActiveDirectory_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteExecute_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetSysPaths_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Time_Data.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Environment_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/audit_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DiBa_Target_2000.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/machineinfo_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Environment_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/sqlite3.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LotusNotesMailUsers_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteExecute_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/icutu32.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/procMon_Lp9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogFilter_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogonAsUser_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/listdrives_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Scheduler_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtNativeApi_Dswi_BH.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SidLookup_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Script_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessSuspend_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/rmdir_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/pwdump_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_ProcessScanner_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FileType_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GroupUsers_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dsz_Error.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMo_GyCa.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Level4_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetAdmin_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PasswordDump_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessOptions_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Shares_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Traceroute_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FileAttribs_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMo_GrSa_Wow64.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemVersion_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtNativeApi_Dswi.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/netmap_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Groups_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FileAttribs_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DSZ_EP_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpMon_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DiskSpace_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Hide_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Cd_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/pwd_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Time_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetBios_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/pwd_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Delete_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/IpConfig_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Copy_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_FileScanner_LpData.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dns_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogEdit_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdMode_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/move_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AppCompat_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ModifyPrivilege_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Get_Data.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/netmap_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/XmlParser_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Redirect_Target_Flav.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/wmi_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dir_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/KisuComms_Target_2000.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DiBa_Target_BH.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/wellKnownId_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LotusNotesMailUsers_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegKeys_Lp9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Kill_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Banner_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DraftyPlan_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msgku.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessOptions_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/modifyAudit_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetSysPaths_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Firewall_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msslu.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PassFreely_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMo_GyCa_Wow64.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/xerces-c_2_7.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Packages_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RunAsChild_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/put_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Put_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FileAttributes_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Route_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/icudt32.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Audit_Target_Vista.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ExitWindows_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ExitWindows_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msvcr90.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Sql_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Portmap_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/diskspace_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/kill_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/vtuner.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMe_GrSa.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/move_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/put_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Performance_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/UtilPaku.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/processinfo_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/packet.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Oracle_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetUse_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msgkd.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GeZu_KernelMemory_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/npptools.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/arp_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_Fail.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_ThreadInject_Fail.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/netmap_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/processinfo_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Cd_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetGetDCName_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Activity_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ModifyPrivilege_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogonAsUser_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GroupUsers_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/FileAttribs_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Processes_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketScan_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/rmdir_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Cd_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Get_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Traceroute_Target_Flav.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DllLoad_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtNativeApi_Fail.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Redirect_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NameServerLookup_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/UpTime_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Checksum_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetUse_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dsz_Implant_Pc.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegQuery_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/memory_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Run_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Traceroute_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_ProcessScanner_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_EpMe_GrSa_Wow64.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_FileScanner_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DuplicateToken_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/CheckKeyboard_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtNativeApi_Win32.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtMemory_Fail.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PassFreely_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SerialRedirect_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DuplicateToken_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/CheckMouse_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessMemory_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Get_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/mssld.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegistryHive_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mkdir_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Scheduler_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdUser_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetGetDCName_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/memory_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Grep_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/matchTimes_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogEdit_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessInfo_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogEdit_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtMemory_DrNi.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Performance_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Xml4_0u.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Traceroute_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/fileperms_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogEdit_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Get_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DmGz_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Grep_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/move_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/audit_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/drivers_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegKeys_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EP_ListeningPost.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/devmgr_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Windows_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Ping_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/checkfile_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessModify_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/checkfile_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dir_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/QueryEventRecord_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegistryQuery_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/VideoSummary_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/matchTimes_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Permissions_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/IpConfig_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogEdit_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LotusNotesParser_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpMon_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Oracle_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/modifyAudit_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpApi_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/VideoSummary_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SerialSniffer_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/WebTipper_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Windows_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/icuuc32.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/matchTimes_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/URControl_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketRedirect_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Redirect_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Tree_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Services_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Banner_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/rmdir_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessHide_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemVersion_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetBios_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketRedirect_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DSZ_EP_ListeningPost.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/copy_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Services_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Move_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Drives_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Strings_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Authentication_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PortMap_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/del_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msgki.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/mssld64.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Drivers_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Performance_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Run_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dns_Target_Flav.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Grep_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Xalan-C_1_10.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/machineinfo_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpApi_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetAdmin_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Environment_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Netstatmon2k_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessMemory_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dsz_VirtualCd.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Level4_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/language_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/TrafficCapture_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/nethide_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemVersion_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Dir_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Rmdir_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GrDo_FileScanner_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/tcptraceroute_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Scheduler_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DiBa_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Users_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/icuin32.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/pwd_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msslu64.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegQuery_Lp9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/wmi_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/processinfo_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogEdit_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RemoteLocalTime_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ResourceManager_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GetSysPaths_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/msvcp71.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/modifyAuthentication_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EP_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketRedirect_Target_Flav.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/CheckMouse_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EP_Scripting.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Checksum_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PC_EpWrapperLp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Ping_Target_Flav.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Redirect_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Papercut_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/MatchFileTimes_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtElevation_ErNi_GrSa.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LSADUMP_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ExitWindows_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/python25.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Time_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/URControl_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/del_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Ldap_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetstatMon_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DraftyPlan_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/mkdir_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetConnections_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Shutdown_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RunAsChild_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SystemPaths_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/arp_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/sqlite_jni.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Environment_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogFilter_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Audit_Target_PreVista.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GangsterThief_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PC_Exploit.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Papercut_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DG_Control_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Groups_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PacketScan_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PidGuesser_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessCheck_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DG_Control_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/SerialSniffer_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/nethide_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DomainController_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/NetBios_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Ifconfig_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/mkdir_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegistryKeys_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/GangsterThief_LpData.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/devmgr_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Netmap_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/MSVCR71.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ClearEventLog_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Users_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/AdMode_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_ThreadInject_Std.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/modifyAuthentication_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/DiBa_Target_BH_2000.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Checksum_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/python27.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/procMon_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/del_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/drivers_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/CurrentUsers_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogQuery_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ArpScan_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Memory_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ping_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/RegQuery_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/WebTipper_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/tcptraceroute_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ResourceManager_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PidGuesser_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/copy_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/LogonAsUser_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Run_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/mkdir_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Objects_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Database_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Groups_Implant.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Tree_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/checkfile_Implant9x.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/ProcessOptions_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/procMon_Lp.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Mcl_NtMemory_Std.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/PC_LP_Bootstrap.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/EventLogClear_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/Get_Target.dll
+./stuxnet_and_its_twins-ALL_PROVIDED/files/2/DLL_2/kill_Implant.dll
 
 
 ```
