@@ -4,6 +4,7 @@
 - ***NOTE, it's not a entirely accurate repo-name, it's more than stuxnet and it's twins.***
 - ENGRAMPA (the application) might be needed to un-pack with the password, because I used that to pack the samples. (password: infected)
 
+![image](https://github.com/loneicewolf/stuxnet_and_its_twins/assets/68499986/a65f5bcb-e37f-400f-9d4f-0c43cac5f146)
 
 
  Stuxnet and it's family, twins, relations, etc. Like the Brutalkangaroo project(airgap), the DementiaWheel(wale?), Of course, the Olympic Games(StuxNet).
