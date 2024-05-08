@@ -1,6 +1,9 @@
 ### **$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
 ### **$\textcolor{cyan}{\textsf{ Note, this will be a "major repo" containing EQGRP,Olympicgames,Brutalkangaroo,etc. }}$**
 
+☢️ samples is not entirely mine, same with reports, I include samples and reports from many different sources, to make it easier to find "one in all repo". ☢️
+
+
 - ***NOTE, it's not a entirely accurate repo-name, it's more than stuxnet and it's twins.***
 - ENGRAMPA (the application) might be needed to un-pack with the password, because I used that to pack the samples. (password: infected)
 
