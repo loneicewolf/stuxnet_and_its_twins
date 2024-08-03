@@ -1,34 +1,109 @@
-NOTE PLEASE SEE THE [MAIN STUXNET REPO](https://github.com/loneicewolf/Stuxnet-Source)
-for tools and such, acknowledgments, resources, and more samples.
-```
+
+<div align="center">
+<h3>$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU DO NOT KNOW WHAT THAT IS - LEAVE}}$ </h3>
+
+ This repository is dedicated to the theoretical research and analysis of the Stuxnet and it's other malware. 
+
+Yours sincerely,
+
+*Will*
+
+</div>
+
+---
+
+# ⚠️
+## Disclaimer
+
+This repository contains information and resources related to malware analysis. The content provided here is intended solely for educational and research purposes. By accessing or using any part of this repository, you agree to the following terms:
+
+1. **Educational Use Only**: The materials in this repository are provided for studying and understanding malware behavior and should not be used for any malicious or unauthorized activities.
+
+2. **No Responsibility**: The author(s) of this repository do not accept any responsibility or liability for any harm, loss, or damage caused by the use or misuse of the information, code, or tools provided here. This includes, but is not limited to, any direct, indirect, incidental, or consequential damages arising out of or in connection with the use or performance of this repository.
+
+3. **Use at Your Own Risk**: Any use of the information or resources in this repository is done at your own risk. It is your responsibility to ensure that you have adequate knowledge, tools, and precautions in place when working with malware.
+
+4. **Compliance with Laws**: It is your responsibility to ensure that your use of the information and resources in this repository complies with all applicable laws, regulations, and policies. Unauthorized use of this repository's contents may violate local, state, national, or international laws.
+
+5. **No Warranty**: The information, code, and tools in this repository are provided "as is" without any warranties of any kind, either express or implied. The author(s) make no representations or warranties regarding the accuracy, completeness, or suitability of the content provided.
+
+6. **Third-Party Links**: This repository may contain links to third-party websites or resources. These links are provided for convenience only, and the author(s) do not endorse or assume any responsibility for the content, products, or services provided by third parties.
+
+By continuing (scrolling, accessing, and/or using this repository), you acknowledge that you have read, understood, and agree to this disclaimer. If you do not agree to these terms, you should not use this repository or its contents and are advised not to continue. Please have a good day.
+
+---
+
+<sub>Please see the `THANKS_TO.md` file for people I consider helpful in building this repo!</sub>
+
+## Table of Contents
+
+- [Introduction](#introduction)
+  - [Purpose](#purpose)
+- [Malware Samples](#malware-samples)
+- [Related Malware](#related-malware)
+- [Overview](#overview)
+- [Tree Overview](#tree-overview)
+- [Acknowledgments](#acknowledgments)
+
+---
+
+## Introduction
+- [ ] todo
+
+
+### Purpose
+This repository is a collection of Stuxnet and other-related files gathered from various sources to make it more accessible for researchers and antivirus developers.
  
 
+---
 
+## Malware Samples
 
-```
+**NOTE:** Please see the [MAIN STUXNET REPO](https://github.com/loneicewolf/Stuxnet-Source) for tools, acknowledgments, resources, and additional samples.
 
-### **$\textcolor{red}{\textsf{ MALWARE AHEAD! IF YOU  DO NOT  KNOW WHAT THAT IS  - LEAVE}}$**
-### **$\textcolor{cyan}{\textsf{ Note, this will be a "major repo" containing EQGRP,Olympicgames,Brutalkangaroo,etc. }}$**
+- If you see `need PK compat. v5.1 (can do v4.6)`, you need to install `engrampa` on Linux. I use Qubes for malware and Engrampa to pack infected archives.
 
-☢️ samples is not entirely mine, same with reports, I include samples and reports from many different sources, to make it easier to find "one in all repo". ☢️
+---
 
-- ***NOTE, it's not a entirely accurate repo-name, it's more than stuxnet and it's twins.***
-- ENGRAMPA (the application) might be needed to un-pack with the password, because I used that to pack the samples. 
+## Related Malware
 
-![image](https://github.com/loneicewolf/stuxnet_and_its_twins/assets/68499986/a65f5bcb-e37f-400f-9d4f-0c43cac5f146)
+- **EQUATIONGROUP**
+  - STUXNET
+  - FANNY.BMP
+  - BRUTALKANGAROO
+  - GAUSS
+  - FLAMER
 
+---
 
- Stuxnet and it's family, twins, relations, etc. Like the Brutalkangaroo project(airgap), the DementiaWheel(wale?), Of course, the Olympic Games(StuxNet).
- And more. Guass, Duqu, Equation, and more samples.
+## Overview
 
- Why make this repo? I have always typed "I will provide my own samples for flame/duqu etc. etc." but never did that, cuz of some life problems, so but here it is! it will be slow though but My single goal with this repo is to make it..
- **easy. to. read.**
+STUXNET (and its twins) is just a malware repo.
 
-# ☣️ [ALL_PROVIDED ](https://github.com/loneicewolf/stuxnet_and_its_twins/tree/ALL_PROVIDED) 
+---
 
+## Tree Overview
+- [ ] TODO
 
+<details>
+<summary>🌻 Click to Expand Tree</summary>
 
-only unlock at your own risk.
-```
-(password: infected)
-```
+ files will be listed here.
+
+</details>
+
+---
+
+## Acknowledgments
+
+- [ ] TODO
+
+<div align="center" style="color: #ff6341;">
+
+<br>
+Yours sincerely,<br>
+Will
+</div>
+
+---
+
